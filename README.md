@@ -4,7 +4,7 @@ The ml_model folder includes the final ml model used for evaluating final energi
 
 
 The data folder includes 
-  - training data: to train final training model 
-  - validation set: to evaluate performace of model 
-  - evaluation set: final trajectory used in calculating adsorption energy, tranistion states and reaction pathways in the paper.  
-  - Chemiscope file to reporduce the UMAP representations of adsorbed glycerol in Section 3.1 
+  - training_setdata: to train final training model 
+  - validation_dataset: to evaluate performace of model 
+  - final_dataset: final trajectory used in calculating adsorption energy, tranistion states and reaction pathways in the paper.  
+  - @adsorbed_glycerol_umap.json.tar.gz: Chemiscope file to reporduce the UMAP representations of adsorbed glycerol in Section 3.1 
